@@ -1,0 +1,20 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-1K.txt into jukebox...
+	Jukebox is loaded with 1000 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: Darrell Scott, Title: Shattered Cross
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Billy J. Kramer, Title: From A Window
+		Artist: Peret, Title: ¡Lo Mato!
+		Artist: Piotta, Title: Tequila
+		Artist: Happy Mondays, Title: Moving In With (Re-mastered version)
+		Artist: Jeff Lorber, Title: Uncle Darrow's
+	Simulation took 0 second/s
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 1971343
+	Average number of songs played per simulation to get duplicate: 39
+	Most played song: "Make Me Feel " by "Benassi Bros. Feat. Dhany"
+	All songs alphabetically by "Benassi Bros. Feat. Dhany":
+		"Make Me Feel " with 2102 plays

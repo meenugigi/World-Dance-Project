@@ -1,0 +1,20 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-10.txt into jukebox...
+	Jukebox is loaded with 10 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: The Sun Harbor's Chorus-Documentary Recordings, Title: Mama_ mama can't you see ?
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Faster Pussy cat, Title: Silent Night
+		Artist: Joseph Locke, Title: Goodbye
+		Artist: The Sun Harbor's Chorus-Documentary Recordings, Title: Mama_ mama can't you see ?
+		Artist: Kris Kross, Title: 2 Da Beat Ch'yall
+		Artist: David Montgomery, Title: Symphony No. 1 G minor "Sinfonie Serieuse"/Allegro con energia
+
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 183052
+	Average number of songs played per simulation to get duplicate: 3
+	Most played song: "Symphony No. 1 G minor "Sinfonie Serieuse"/Allegro con energia" by "David Montgomery"
+	All songs alphabetically by "David Montgomery":
+		"Symphony No. 1 G minor "Sinfonie Serieuse"/Allegro con energia" with 18374 plays

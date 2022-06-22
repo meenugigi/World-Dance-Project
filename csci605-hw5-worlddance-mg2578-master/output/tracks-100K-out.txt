@@ -1,0 +1,23 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-100K.txt into jukebox...
+	Jukebox is loaded with 98853 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: Orange Sector, Title: Prisoner
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Cristal Snow, Title: Scarred
+		Artist: Paul McCandless, Title: Argument
+		Artist: Boyz N Da Hood, Title: Dem Boyz (Amended Version)
+		Artist: Fair Warning, Title: When Love Fails
+		Artist: I Am Kloot, Title: This House Is Haunted
+	Simulation took 6 second/s
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 19637389
+	Average number of songs played per simulation to get duplicate: 392
+	Most played song: "Destiny" by "Giovanni"
+	All songs alphabetically by "Giovanni":
+		"Cuando se Acaba el Amor" with 201 plays
+		"Destiny" with 261 plays
+		"Ohne dich" with 216 plays
+		"Wind Beneath My Wings" with 201 plays

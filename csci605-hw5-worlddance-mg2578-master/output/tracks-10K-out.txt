@@ -1,0 +1,20 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-10K.txt into jukebox...
+	Jukebox is loaded with 9990 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: Nat Stuckey, Title: Little Drummer Boy
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Marcel Kanche, Title: L'Homme
+		Artist: Metro Station, Title: True To me
+		Artist: The Brian Jonestown Massacre, Title: Who?
+		Artist: MC Devvo & Shady Piez, Title: Cosmic Lazer (Accapella)
+		Artist: Passion Pit, Title: Live To Tell The Tale
+	Simulation took 1 second/s
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 6230338
+	Average number of songs played per simulation to get duplicate: 124
+	Most played song: "Sugar Engines (Demo)" by "The Wild Swans"
+	All songs alphabetically by "The Wild Swans":
+		"Sugar Engines (Demo)" with 722 plays

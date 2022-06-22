@@ -1,0 +1,20 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-1.txt into jukebox...
+	Jukebox is loaded with 1 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Faster Pussy cat, Title: Silent Night
+		Artist: Faster Pussy cat, Title: Silent Night
+		Artist: Faster Pussy cat, Title: Silent Night
+		Artist: Faster Pussy cat, Title: Silent Night
+		Artist: Faster Pussy cat, Title: Silent Night
+	Simulation took 0 second/s
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 50000
+	Average number of songs played per simulation to get duplicate: 1
+	Most played song: "Silent Night" by "Faster Pussy cat"
+	All songs alphabetically by "Faster Pussy cat":
+		"Silent Night" with 50000 plays

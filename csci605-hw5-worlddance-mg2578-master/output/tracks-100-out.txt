@@ -1,0 +1,20 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-100.txt into jukebox...
+	Jukebox is loaded with 100 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: A.Human, Title: Pacey Singer
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Stemm, Title: On the Surface
+		Artist: The Vichy Government, Title: The Man Delusion
+		Artist: Piotta, Title: Tequila
+		Artist: Billy Idol, Title: Scream
+		Artist: Lena Philipsson, Title: 006
+	Simulation took 0 second/s
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 609901
+	Average number of songs played per simulation to get duplicate: 12
+	Most played song: "Two Legged Sheep" by "Kingdom Come"
+	All songs alphabetically by "Kingdom Come":
+		"Two Legged Sheep" with 6279 plays

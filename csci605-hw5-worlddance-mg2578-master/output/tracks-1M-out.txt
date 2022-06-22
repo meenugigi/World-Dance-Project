@@ -1,0 +1,49 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-1M.txt into jukebox...
+	Jukebox is loaded with 926096 songs
+	First song in jukebox: Artist: Faster Pussy cat, Title: Silent Night
+	Last song in jukebox: Artist: Texta, Title: Fernweh feat. Sektion Kuchikäschtli
+Running the simulation. Jukebox starts rockin'...
+	Printing first 5 songs played...
+		Artist: Gerald Veasley, Title: Celebrating Sipho
+		Artist: Kari Tapio, Title: Tuun Blue Bayou´uun
+		Artist: Sandra Oxenryd, Title: At Your Side
+		Artist: RKL, Title: Motherfucker
+		Artist: Kenny Werner / Toots Thielemans, Title: Tender Is The Night
+	Simulation took 42 second/s
+Displaying simulation statistics:
+	Number of simulations run: 50000
+	Total number of songs played: 60087812
+	Average number of songs played per simulation to get duplicate: 1201
+	Most played song: "American Man" by "Velvet Revolver"
+	All songs alphabetically by "Velvet Revolver":
+		"American Man" with 105 plays
+		"Big Machine" with 68 plays
+		"Bodies" with 74 plays
+		"Can't Get It Out Of My Head" with 53 plays
+		"Come On_ Come In" with 65 plays
+		"Dirty Little Thing" with 65 plays
+		"Do It For The Kids" with 70 plays
+		"Fall To Pieces" with 74 plays
+		"For A Brother" with 63 plays
+		"Get Out The Door" with 72 plays
+		"Gravedancer" with 55 plays
+		"Headspace" with 59 plays
+		"Illegal i Song" with 74 plays
+		"Just Sixteen" with 63 plays
+		"Let It Roll" with 59 plays
+		"Loving The Alien" with 60 plays
+		"Mary Mary" with 64 plays
+		"Money" with 73 plays
+		"Negative Creep" with 66 plays
+		"Pills_ Demons & Etc." with 77 plays
+		"Set Me Free" with 60 plays
+		"She Builds Quick Machines" with 71 plays
+		"She Mine" with 62 plays
+		"Slither" with 69 plays
+		"Spay" with 75 plays
+		"Spectacle" with 61 plays
+		"Sucker Train Blues" with 73 plays
+		"Superhuman" with 57 plays
+		"Surrender" with 83 plays
+		"The Last Fight" with 62 plays
